@@ -1,0 +1,19 @@
+{
+  "name": "book-trader-project",
+  "version": "1.0.0",
+  "description": "book trading application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laniqo/book-trader-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laniqo/book-trader-project/issues"
+  },
+  "homepage": "https://github.com/Laniqo/book-trader-project#readme"
+}
